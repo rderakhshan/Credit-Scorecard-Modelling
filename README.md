@@ -1,2 +1,2 @@
-# rderakhshan-Credit-Scorecard-Modelling
+# Credit-Scorecard-Modelling
 Readme.txt
